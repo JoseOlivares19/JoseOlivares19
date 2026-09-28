@@ -1,4 +1,4 @@
-💻 Desarrollador de Software enfocado en Backend
+💻 Desarrollador de Software 
 
 Desarrollo aplicaciones web y APIs REST utilizando Java y Spring Boot, trabajando con bases de datos SQL/NoSQL, testing, Docker y herramientas de integración continua.
 
