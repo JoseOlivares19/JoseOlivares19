@@ -57,6 +57,6 @@ Desarrollo aplicaciones web y APIs REST utilizando Java y Spring Boot, trabajand
 
 ## 🌐 Contacto
 
-🌎 **Web:** (https://joseolivaresdev.me)
+🌎 **Web:** https://joseolivaresdev.me
 
 📧 **Email:** josecarlosolivares05@gmail.com
